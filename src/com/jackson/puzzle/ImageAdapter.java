@@ -47,9 +47,9 @@ public class ImageAdapter extends BaseAdapter {
 			image = new ImageView(mContext);
 			
 			/*
-			 * NOTE: I have set imageWidth - 10 and imageHeight 
-			 * as arguments to LayoutParams class. 
-			 * But you can take anything as per your requirement 
+			 NOTE: I have set imageWidth - 10 and imageHeight 
+			 as arguments to LayoutParams class.
+			 But you can take anything as per your requirement 
 			 */
 			image.setLayoutParams(new GridView.LayoutParams(imageWidth - 10 , imageHeight));
 			image.setPadding(0, 0, 0, 0);
