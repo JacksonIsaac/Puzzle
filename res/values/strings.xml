@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Puzzle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Button1">Take Picture</string>
+    <string name="title_activity_image_splitter">ImageSplitter</string>
+    <string name="title_activity_chunked_image">ChunkedImageActivity</string>
+
+</resources>
