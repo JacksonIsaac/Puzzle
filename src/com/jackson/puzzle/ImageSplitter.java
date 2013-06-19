@@ -45,6 +45,7 @@ public class ImageSplitter extends Activity implements OnClickListener {
 		}
 
 		// Getting the source image to split
+		//Error
 		ImageView image = (ImageView) findViewById(R.id.imageView1);
 
 		// invoking method to split the source image
